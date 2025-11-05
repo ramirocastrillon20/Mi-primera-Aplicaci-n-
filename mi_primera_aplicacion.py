@@ -9,7 +9,7 @@ Original file is located at
 #!pip install streamlit
 
 # Importamos las Librerias
-import streamli as st
+import streamlit as st
 import pandas as pd
 
 # Commented out IPython magic to ensure Python compatibility.
