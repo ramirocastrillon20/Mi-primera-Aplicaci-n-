@@ -21,3 +21,5 @@ import streamlit as st
 import pandas as pd
 
 st.title("Mi Primera App con Streamlit")
+
+# lista de Tikers ("AAPL","MFST","NVDA")
